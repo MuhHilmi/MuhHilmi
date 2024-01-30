@@ -1,7 +1,7 @@
 # hilmi.github.io
 
 <h1 align="center">Hi 👋, I'm M. Hilmi</h1>
-<h3 align="center">A passionate frontend developer & Graphic Designer from Indonesia</h3>
+<h3 align="center">A beginner frontend developer & Graphic Designer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
